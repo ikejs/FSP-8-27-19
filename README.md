@@ -5,4 +5,4 @@ Characters:
 - guy
 - guy
 - guy
-- cheap dude
+- cheap dude 2
